@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Olá, seja bem vindo(a) ao meu perfil.🙃 </h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo(a)+ao+meu+perfil" alt="Typing SVG" /></a></h1>
 
 <div align="center">
   <a href="https://github.com/pmela">
