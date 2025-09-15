@@ -2,9 +2,9 @@
 
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a></h1>
 
-<div align="center">
-  <a href="https://github.com/pmela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmela&locale=pt-br&layout=compact&langs_count=7&theme=dark&title_color=884CFF&bg_color=161b22&text_color=E6F1FE"/>
+<div align="justfy">
+ Sou desenvolvedora full stack com mais de 4 anos de experiência em programação, tendo atuado em diferentes tecnologias, projetos e segmentos.
+Para saber mais acesse meu portifólio: https://pamelaaraujodev.com.br/
 </div>
 
 ## Meus conhecimentos  🛠
